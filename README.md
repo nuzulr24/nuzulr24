@@ -1,6 +1,6 @@
 ### Hi there, I'm Nujul - aka [Juju Code][website] 👋
 
-[![Website](https://img.shields.io/website?label=nuzul.space&style=for-the-badge&url=https%3A%2F%2Fnuzul.space)](https://nuzul.space)
+[![Website](https://img.shields.io/website?label=lihat.space&style=for-the-badge&url=https%3A%2F%2Flihat.space)](https://lihat.space)
 
 ## I'm a College Student, Coding Geeker, Developer, and Foodies!!
 
