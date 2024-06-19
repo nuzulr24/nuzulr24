@@ -1,10 +1,7 @@
-### Hi there, I'm Nujul - aka [Juju Code][website] 👋
+### Hi there, I'm Nujul 👋
 
-[![Website](https://img.shields.io/website?label=lihat.space&style=for-the-badge&url=https%3A%2F%2Flihat.space)](https://lihat.space)
+## I'm a Coding Geeker, Developer, and Foodies!!
 
-## I'm a College Student, Coding Geeker, Developer, and Foodies!!
-
-- 🔭 I just launched my third product: [Teman Kreatif Hub!][instagram]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects dan Publish an Products
@@ -12,9 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nuzul.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Nuzulr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="NOJOLLLLLL | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
