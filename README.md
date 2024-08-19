@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Nuzulr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nuzul Zaif Mahdiono Ramadhan | LinkedIn" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png" />][linkedin]
 
 <br />
 
