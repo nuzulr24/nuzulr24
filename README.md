@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects dan Publish an Products
+- 🥅 2024 Goals: Contribute more to Open Source projects dan Publish an Products
 - ⚡ Fun fact: I love to write some code
 
 ### Connect with me:
@@ -31,15 +31,5 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nuzulr24&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://nuzul.space
-[instagram]: https://instagram.com/nojollllll
+[instagram]: https://instagram.com/hidupsepertibuur
 [linkedin]: https://linkedin.com/in/nuzulr
